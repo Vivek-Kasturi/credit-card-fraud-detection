@@ -57,6 +57,15 @@ Includes:
 
 
 ---
+## 🛠️ SQL Backend Simulation
+
+Simulated database operations using PostgreSQL:
+
+- `create_creditcarddetails.sql`: Full table schema for cleaned dataset
+- `read_fraud_insights.sql`: SELECT queries for fraud rate, anomaly scores, and region analysis
+- `update_flags.sql`: Update operations to mark suspicious transactions
+- `delete_junk_rows.sql`: Deletes low-priority or test entries
+
 
 ## 📥 How to Use
 
